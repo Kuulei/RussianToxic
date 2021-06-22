@@ -2,9 +2,13 @@
 Documentation for the RuToxic Project:
 
 The goal of this project was to experiment with a couple of different algorithms and features for the detection of toxicity in Russian comments.
-The primary dataset can be found at https://www.kaggle.com/alexandersemiletov/toxic-russian-comments
-The secondary dataset was used for additional evaluation and can be found at:  https://www.kaggle.com/blackmoon/russian-language-toxic-comments
-Before training the models and preparing the features, you should download the datasets and name them appropriately while also creating two empty directories for the "Features" and "Models"
+The primary dataset can be found at:
+https://www.kaggle.com/alexandersemiletov/toxic-russian-comments
+
+The secondary dataset was used for additional evaluation and can be found at:
+https://www.kaggle.com/blackmoon/russian-language-toxic-comments
+
+Before training the models and preparing the features, you should download the datasets and name them appropriately while also creating two empty directories for the "Features" and "Models"`.
 
 You should run these files in the correct order, like this:
 TextToCsv> All_Features> Train_BinaryClass> Preprocessing_Testset>BinaryClass_Evaluation
