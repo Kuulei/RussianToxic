@@ -1,5 +1,5 @@
 # RussianToxic
-Documentation for the RuToxic Project:
+This project was completed as final assignment of the course "Advanced Language Processing with Python", which is a part of the Computer-Assisted Language Mediation (CALM) postgraduate at Ghent University.
 
 The goal of this project was to experiment with a couple of different algorithms and features for the detection of toxicity in Russian comments.
 The primary dataset can be found at:
